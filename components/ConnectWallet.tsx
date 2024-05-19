@@ -124,7 +124,7 @@ const ConnectWallet: FC = () => {
   };
   const onClaim = async () => {
     toast.promise(ClaimButton(), {
-      success: { title: "Promise resolved", description: `Error: ` },
+      success: { title: "Promise resolved", description: `Airdrop claimed ` },
       error: (error) => ({
         title: "Promise rejected",
         description: `Error: ${error.message}`,
