@@ -1,0 +1,1247 @@
+.footerChild {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  background-color: #070707;
+  width: 1440px;
+  height: 376px;
+}
+.homeRewards {
+  margin: 0;
+}
+.homeRewardsTaskContainer {
+  position: absolute;
+  top: 41px;
+  left: 0px;
+  line-height: 186.3%;
+  display: inline-block;
+  width: 372px;
+  height: 117px;
+}
+.groupChild {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 34px;
+  height: 34px;
+}
+.groupItem {
+  position: absolute;
+  top: 0px;
+  left: 53px;
+  width: 34px;
+  height: 34px;
+}
+.groupDiv {
+  position: absolute;
+  top: 117px;
+  left: 632px;
+  width: 87px;
+  height: 34px;
+}
+.aboutUs {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  font-size: 17px;
+  font-weight: 500;
+}
+.glowgamesappcom {
+  position: absolute;
+  top: 46px;
+  left: 0px;
+  display: inline-block;
+  width: 282px;
+  height: 76px;
+}
+.glowgamesappcomParent {
+  position: absolute;
+  top: 0px;
+  left: 220px;
+  width: 282px;
+  height: 122px;
+}
+.groupContainer {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 719px;
+  height: 158px;
+}
+.groupWrapper {
+  position: absolute;
+  top: 0px;
+  left: 551px;
+  width: 719px;
+  height: 158px;
+}
+.groupInner {
+  position: absolute;
+  top: 214px;
+  left: 0px;
+  border-top: 0.8px solid #d2d2d2;
+  box-sizing: border-box;
+  width: 1440.8px;
+  height: 0.8px;
+}
+.copyright2024 {
+  position: absolute;
+  top: 243px;
+  left: 588px;
+  font-size: 13px;
+  line-height: 190.6%;
+}
+.groupParent {
+  position: absolute;
+  top: 79px;
+  left: 0px;
+  width: 1440px;
+  height: 268px;
+}
+.glow {
+  position: relative;
+  background: linear-gradient(180deg, #d4d4d4, #fff);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.games1 {
+  position: relative;
+  font-size: 38px;
+}
+.logo {
+  position: absolute;
+  top: 92px;
+  left: 101px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 2px;
+  font-size: 39px;
+  font-family: Aldrich;
+}
+.footer {
+  position: absolute;
+  top: 4980px;
+  left: 15px;
+  width: 1440px;
+  height: 376px;
+}
+.vectorIcon {
+  position: absolute;
+  height: 41.16%;
+  width: 102.15%;
+  top: 58.83%;
+  right: -2.15%;
+  bottom: 0%;
+  left: 0%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: contain;
+}
+.vectorIcon1 {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 1440px;
+  height: 1024px;
+}
+.playGlobalyWith {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  line-height: 187.5%;
+  display: inline-block;
+  width: 743px;
+  height: 83px;
+}
+.connectWithFriends {
+  position: absolute;
+  top: 64.84px;
+  left: 3px;
+  font-size: 18px;
+  line-height: 187.5%;
+  display: inline-block;
+  width: 733.9px;
+  height: 84.2px;
+}
+.playGlobalyWithFriendsParent {
+  position: absolute;
+  top: 0px;
+  left: 160px;
+  width: 743px;
+  height: 149px;
+}
+.page6Child {
+  position: absolute;
+  top: 85px;
+  left: -49px;
+  border-radius: 20px;
+  width: 382px;
+  height: 223px;
+  object-fit: cover;
+  display: none;
+}
+.page6Item {
+  position: absolute;
+  top: 85px;
+  left: 360px;
+  border-radius: 20px;
+  width: 382px;
+  height: 223px;
+  object-fit: cover;
+  display: none;
+}
+.page6Inner {
+  position: absolute;
+  top: 85px;
+  left: 769px;
+  border-radius: 20px;
+  width: 352px;
+  height: 223px;
+  object-fit: cover;
+  display: none;
+}
+.rectangleIcon {
+  position: absolute;
+  top: 341px;
+  left: 224px;
+  border-radius: 20px;
+  width: 401px;
+  height: 223px;
+  object-fit: cover;
+  display: none;
+}
+.page6Child1 {
+  position: absolute;
+  top: 341px;
+  left: 652px;
+  border-radius: 20px;
+  width: 469px;
+  height: 223px;
+  object-fit: cover;
+  display: none;
+}
+.page6Child2 {
+  position: absolute;
+  top: 341px;
+  left: -49px;
+  border-radius: 20px;
+  width: 246px;
+  height: 223px;
+  object-fit: cover;
+  display: none;
+}
+.hugeGlobalIcon {
+  width: 1060px;
+  position: relative;
+  height: 537.8px;
+}
+.map {
+  position: absolute;
+  top: 149px;
+  left: 0px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.page6 {
+  position: absolute;
+  top: 3775px;
+  left: 190px;
+  width: 1060px;
+  height: 686.8px;
+  text-align: center;
+  font-size: 40px;
+}
+.page5Child {
+  position: absolute;
+  top: 232.83px;
+  left: 0px;
+  width: 669px;
+  height: 354.9px;
+}
+.gameplay {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  line-height: 180.5%;
+  font-weight: 600;
+  display: inline-block;
+  width: 942px;
+}
+.gameplayWrapper {
+  position: absolute;
+  top: 0px;
+  left: 114px;
+  width: 942px;
+  height: 162px;
+}
+.page5 {
+  position: absolute;
+  top: 2846px;
+  left: 135px;
+  width: 1056px;
+  height: 587.8px;
+  text-align: center;
+  font-size: 90px;
+}
+.aboutGlowgames {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  font-weight: 500;
+}
+.aboutGlowgamesWrapper {
+  position: absolute;
+  top: 164px;
+  left: 809px;
+  width: 281px;
+  height: 45px;
+}
+.dRenderingCardGame1Icon {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 809px;
+  height: 752px;
+  object-fit: cover;
+}
+.inTheVastContainer {
+  position: absolute;
+  top: 219px;
+  left: 809px;
+  font-size: 17px;
+  display: inline-block;
+  width: 562px;
+  height: 159px;
+}
+.rectangleDiv {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  background-color: #dc7000;
+  width: 177px;
+  height: 50px;
+}
+.readMore {
+  position: absolute;
+  top: 13px;
+  left: 45px;
+}
+.rectangleParent {
+  position: absolute;
+  top: 578px;
+  left: 809px;
+  width: 177px;
+  height: 50px;
+  font-size: 16px;
+}
+.page4Inner {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 1371px;
+  height: 752px;
+}
+.page4 {
+  position: absolute;
+  top: 2022px;
+  left: -31px;
+  width: 1371px;
+  height: 752px;
+  font-size: 30px;
+}
+.currentTask {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  font-size: 31px;
+  line-height: 187.5%;
+}
+.longChild {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  border-radius: 10px;
+  background-color: #fa8305;
+  width: 804px;
+  height: 57px;
+}
+.connectSolanaWallet {
+  position: absolute;
+  top: 4px;
+  left: 30px;
+  line-height: 187.5%;
+  font-weight: 500;
+  white-space: pre-wrap;
+}
+.long {
+  position: absolute;
+  top: 86px;
+  left: 0px;
+  width: 804px;
+  height: 57px;
+  text-align: center;
+}
+.long1 {
+  position: absolute;
+  top: 158px;
+  left: 0px;
+  width: 804px;
+  height: 57px;
+  text-align: center;
+}
+.followGlowgamesOn {
+  position: absolute;
+  top: 4px;
+  left: 27px;
+  line-height: 187.5%;
+  font-weight: 500;
+}
+.rectangleGroup {
+  position: absolute;
+  top: 231px;
+  left: 0px;
+  width: 804px;
+  height: 57px;
+  text-align: center;
+}
+.completeZealyTask {
+  position: absolute;
+  top: 3px;
+  left: 27px;
+  line-height: 187.5%;
+  font-weight: 500;
+}
+.rectangleContainer {
+  position: absolute;
+  top: 304px;
+  left: 0px;
+  width: 804px;
+  height: 57px;
+  text-align: center;
+}
+.pts {
+  position: absolute;
+  top: 0px;
+  left: 34px;
+  line-height: 187.5%;
+  font-weight: 500;
+}
+.fire1Icon {
+  position: absolute;
+  top: 8px;
+  left: 0px;
+  width: 25px;
+  height: 25px;
+  overflow: hidden;
+}
+.short {
+  position: absolute;
+  top: 94px;
+  left: 899px;
+  width: 144px;
+  height: 41px;
+  font-size: 22px;
+  color: #e87d0e;
+}
+.short1 {
+  position: absolute;
+  top: 166px;
+  left: 899px;
+  width: 144px;
+  height: 41px;
+  font-size: 22px;
+  color: #e87d0e;
+}
+.ptsParent {
+  position: absolute;
+  top: 239px;
+  left: 899px;
+  width: 154px;
+  height: 41px;
+  font-size: 22px;
+  color: #e87d0e;
+}
+.ptsGroup {
+  position: absolute;
+  top: 312px;
+  left: 899px;
+  width: 168px;
+  height: 41px;
+  font-size: 22px;
+  color: #e87d0e;
+}
+.groupChild3 {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  border-radius: 10px;
+  background-color: #fa8305;
+  width: 139px;
+  height: 57px;
+}
+.points {
+  position: absolute;
+  top: 10px;
+  left: 30px;
+  line-height: 187.5%;
+  font-weight: 500;
+}
+.rectangleParent1 {
+  position: absolute;
+  top: 1px;
+  left: 899px;
+  width: 139px;
+  height: 57px;
+  font-size: 20px;
+}
+.page3 {
+  position: absolute;
+  top: 1530px;
+  left: 171px;
+  width: 1067px;
+  height: 361px;
+  font-size: 25px;
+  font-family: Rubik;
+}
+.glowgames {
+  position: absolute;
+  top: 0px;
+  left: 80px;
+  letter-spacing: 0.16em;
+  background: linear-gradient(179.71deg, #838383, rgba(0, 0, 0, 0) 56.41%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  display: inline-block;
+  width: 1250.2px;
+  height: 345px;
+}
+.frameChild {
+  position: absolute;
+  top: 42px;
+  left: 1229px;
+  width: 602px;
+  height: 331px;
+}
+.groupChild4 {
+  position: absolute;
+  top: 72px;
+  left: 0px;
+  background-color: #feb648;
+  width: 602px;
+  height: 331px;
+}
+.threeDimensionalCasinoItemIcon {
+  position: absolute;
+  top: 0px;
+  left: 47px;
+  width: 525px;
+  height: 370px;
+  object-fit: cover;
+}
+.texasHoldEm {
+  position: absolute;
+  top: 307px;
+  left: 47px;
+  color: #0d0101;
+}
+.groupChild5 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0%;
+  right: 0%;
+  bottom: 0%;
+  left: 0%;
+  border-radius: 12px;
+  background-color: #d711a0;
+}
+.playNow {
+  position: absolute;
+  height: 48.38%;
+  width: 75.91%;
+  top: 24.19%;
+  left: 12.15%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.rectangleParent3 {
+  position: absolute;
+  height: 9.18%;
+  width: 19.58%;
+  top: 85.11%;
+  right: 72.77%;
+  bottom: 5.71%;
+  left: 7.64%;
+  text-align: center;
+  font-size: 15px;
+}
+.vectorIcon2 {
+  position: absolute;
+  height: 78.78%;
+  width: 62.57%;
+  top: 12.5%;
+  right: 18.68%;
+  bottom: 8.72%;
+  left: 18.75%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.vectorIcon3 {
+  position: absolute;
+  height: 9.73%;
+  width: 27.16%;
+  top: 75%;
+  right: 36.46%;
+  bottom: 15.27%;
+  left: 36.37%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  opacity: 0.05;
+}
+.vectorIcon4 {
+  position: absolute;
+  height: 7.57%;
+  width: 25.14%;
+  top: 76.04%;
+  right: 37.45%;
+  bottom: 16.39%;
+  left: 37.42%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  opacity: 0.07;
+}
+.vectorIcon5 {
+  position: absolute;
+  height: 5.54%;
+  width: 22.97%;
+  top: 77.08%;
+  right: 38.57%;
+  bottom: 17.38%;
+  left: 38.46%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.vectorIcon6 {
+  position: absolute;
+  height: 9.32%;
+  width: 7.7%;
+  top: 58.82%;
+  right: 26.09%;
+  bottom: 31.85%;
+  left: 66.2%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.vectorIcon7 {
+  position: absolute;
+  height: 9.05%;
+  width: 7.3%;
+  top: 58.97%;
+  right: 34.59%;
+  bottom: 31.97%;
+  left: 58.11%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.glow1 {
+  position: absolute;
+  height: 27.03%;
+  width: 48.65%;
+  top: 32.43%;
+  left: 25.68%;
+  letter-spacing: 0.16em;
+  line-height: 145.95%;
+  display: flex;
+  align-items: center;
+}
+.groupIcon {
+  position: absolute;
+  height: 9.05%;
+  width: 9.46%;
+  top: 58.97%;
+  right: 43.77%;
+  bottom: 31.97%;
+  left: 46.77%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.groupIcon1 {
+  position: absolute;
+  height: 9.19%;
+  width: 10%;
+  top: 58.93%;
+  right: 54.24%;
+  bottom: 31.88%;
+  left: 35.76%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.groupIcon2 {
+  position: absolute;
+  height: 9.46%;
+  width: 8.78%;
+  top: 58.8%;
+  right: 65.17%;
+  bottom: 31.74%;
+  left: 26.04%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icons8EpicGames2 {
+  position: absolute;
+  top: 83px;
+  left: 512px;
+  width: 74px;
+  height: 74px;
+  overflow: hidden;
+  font-size: 14px;
+  font-family: Anton;
+}
+.rectangleParent2 {
+  position: absolute;
+  top: -30px;
+  left: 604px;
+  width: 602px;
+  height: 403px;
+}
+.groupChild6 {
+  position: absolute;
+  top: 72px;
+  left: 0px;
+  background: linear-gradient(#310947, #310947),
+    linear-gradient(104.77deg, #5f6388, #c3f5f4 38.95%, #192a32 52.6%, #6fdede);
+  width: 553px;
+  height: 331px;
+}
+.threeDimensionalCasinoItemIcon1 {
+  position: absolute;
+  top: 0px;
+  left: 81px;
+  width: 430px;
+  height: 392px;
+  object-fit: cover;
+}
+.fortniteSkinPngHd1Icon {
+  position: absolute;
+  top: -70px;
+  left: 150px;
+  width: 473px;
+  height: 473px;
+  object-fit: cover;
+  display: none;
+}
+.icons8EpicGames1 {
+  position: absolute;
+  top: 94px;
+  left: 456px;
+  width: 74px;
+  height: 74px;
+  overflow: hidden;
+  font-family: Anton;
+}
+.chinesePoker {
+  position: absolute;
+  top: 314px;
+  left: 22px;
+  font-size: 30px;
+}
+.groupChild7 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0%;
+  right: 0%;
+  bottom: 0%;
+  left: 0%;
+  border-radius: 12px;
+  background-color: #f29912;
+}
+.rectangleParent5 {
+  position: absolute;
+  height: 9.18%;
+  width: 21.32%;
+  top: 85.11%;
+  right: 74.7%;
+  bottom: 5.71%;
+  left: 3.98%;
+  text-align: center;
+  font-size: 15px;
+}
+.rectangleParent4 {
+  position: absolute;
+  top: -30px;
+  left: 0px;
+  width: 553px;
+  height: 403px;
+  font-size: 14px;
+}
+.frameDiv {
+  position: absolute;
+  top: 233px;
+  left: 0px;
+  width: 1370px;
+  height: 373px;
+  overflow-x: auto;
+  font-size: 30px;
+}
+.page2 {
+  position: absolute;
+  top: 813px;
+  left: 70px;
+  width: 1370px;
+  height: 606px;
+  font-size: 170px;
+  font-family: Aldrich;
+}
+.groupChild8 {
+  position: absolute;
+  top: 490px;
+  left: 0px;
+  border-radius: 40px;
+  background: linear-gradient(92.48deg, #fa8305, #fb9e3c);
+  width: 160px;
+  height: 53px;
+}
+.connectWallet {
+  position: absolute;
+  top: 504px;
+  left: 30px;
+  font-weight: 500;
+}
+.icon {
+  position: absolute;
+  top: 0px;
+  left: 567px;
+  width: 593px;
+  height: 600px;
+  object-fit: cover;
+}
+.rectangleParent6 {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 1160px;
+  height: 600px;
+}
+.solanaGamingSolutionContainer {
+  position: absolute;
+  top: 48px;
+  left: 0px;
+  line-height: 155.2%;
+  display: inline-block;
+  width: 580px;
+}
+.poweredBy {
+  white-space: pre-wrap;
+}
+.solana {
+  color: #af0ee8;
+}
+.poweredBySolanaContainer {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  font-size: 20px;
+  line-height: 155.2%;
+  display: inline-block;
+  width: 330.1px;
+  color: #e87d0e;
+}
+.solanaGamingSolutionForAllParent {
+  position: absolute;
+  top: 31px;
+  left: 0px;
+  width: 580px;
+  height: 282px;
+  font-size: 50px;
+}
+.experienceGamingIn {
+  position: absolute;
+  top: 339px;
+  left: 0px;
+  line-height: 200%;
+  font-weight: 500;
+  white-space: pre-wrap;
+  display: inline-block;
+  width: 527px;
+  height: 101px;
+}
+.groupParent2 {
+  width: 1160px;
+  position: relative;
+  height: 600px;
+}
+.homeTxt {
+  position: absolute;
+  top: 0px;
+  left: 109px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.icons8HomePage1 {
+  width: 30px;
+  position: relative;
+  height: 30px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.icons8HomePage1Parent {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 54px;
+}
+.page1Inner {
+  position: absolute;
+  top: 76px;
+  left: 0px;
+  width: 30px;
+  height: 282px;
+}
+.page1 {
+  position: absolute;
+  top: 166px;
+  left: 45px;
+  width: 1269px;
+  height: 600px;
+}
+.glowGames {
+  position: absolute;
+  top: 4778px;
+  left: 124px;
+  font-size: 160px;
+  letter-spacing: 0.16em;
+  font-family: Aldrich;
+  background: linear-gradient(180.22deg, #838383, #000 90.67%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  display: none;
+}
+.partners {
+  position: absolute;
+  top: 0px;
+  left: 286px;
+  font-size: 40px;
+  line-height: 50px;
+  font-weight: 500;
+  display: inline-block;
+  width: 447.8px;
+}
+.ellipseIcon {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  border-radius: 50%;
+  width: 50px;
+  height: 50px;
+  object-fit: cover;
+}
+.solana1 {
+  position: absolute;
+  top: 15px;
+  left: 46px;
+  line-height: 30px;
+  font-weight: 500;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 112px;
+  height: 18px;
+}
+.ellipseParent {
+  position: absolute;
+  top: 123px;
+  left: 0px;
+  width: 158px;
+  height: 50px;
+}
+.fifthofficial {
+  position: absolute;
+  top: 17px;
+  left: 70px;
+  line-height: 30px;
+  font-weight: 500;
+  display: flex;
+  align-items: center;
+  width: 142px;
+  height: 18px;
+}
+.ellipseGroup {
+  position: absolute;
+  top: 121px;
+  left: 375px;
+  width: 212px;
+  height: 50px;
+  text-align: left;
+}
+.haoranGames {
+  position: absolute;
+  top: 15px;
+  left: 70px;
+  line-height: 30px;
+  font-weight: 500;
+  display: flex;
+  align-items: center;
+  width: 190px;
+  height: 18px;
+}
+.ellipseContainer {
+  position: absolute;
+  top: 116px;
+  left: 745px;
+  width: 260px;
+  height: 50px;
+  text-align: left;
+}
+.buttonnonactleftIcon {
+  position: absolute;
+  top: 204px;
+  left: 882px;
+  width: 60px;
+  height: 60px;
+}
+.buttonactrightIcon {
+  position: absolute;
+  top: 204px;
+  left: 962px;
+  width: 60px;
+  height: 60px;
+}
+.partnersParent {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 1022px;
+  height: 264px;
+}
+.game1Inner {
+  position: absolute;
+  top: 4516px;
+  left: 216px;
+  width: 1022px;
+  height: 264px;
+  text-align: center;
+  font-size: 24px;
+  font-family: Rubik;
+}
+.ellipseDiv {
+  position: absolute;
+  top: 0px;
+  left: 60px;
+  border-radius: 50%;
+  background-color: #dde0e4;
+  width: 15px;
+  height: 15px;
+}
+.groupChild11 {
+  position: absolute;
+  top: 0px;
+  left: 90px;
+  border-radius: 50%;
+  background-color: #dde0e4;
+  width: 15px;
+  height: 15px;
+}
+.groupChild12 {
+  position: absolute;
+  top: 0px;
+  left: 120px;
+  border-radius: 50%;
+  background-color: #dde0e4;
+  width: 15px;
+  height: 15px;
+}
+.unionIcon {
+  position: relative;
+  width: 45px;
+  height: 15px;
+}
+.ellipseParent1 {
+  position: absolute;
+  top: 4744px;
+  left: 158px;
+  width: 135px;
+  height: 15px;
+}
+.game1 {
+  width: 100%;
+  position: relative;
+  background-color: #000;
+  height: 5480px;
+  overflow: hidden;
+  text-align: left;
+  font-size: 16px;
+  color: #fff;
+  font-family: Poppins;
+}
+.solwal {
+  background-color: #ff8c00;
+  border-radius: 0.75rem;
+  transition: background-color 0.2s ease-in-out;
+  position: relative;
+}
+.wrap {
+  position: absolute;
+  top: 490px;
+  left: 0px;
+}
+
+.vector {
+  position: absolute;
+  height: 339.26%;
+  width: 102.05%;
+  top: -102.33%;
+  right: -0.59%;
+  bottom: -136.93%;
+  left: -1.46%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: contain;
+}
+.glowgame {
+  position: relative;
+  line-height: 153.5%;
+  font-weight: 800;
+}
+.home {
+  width: 50.6px;
+  position: relative;
+  display: inline-block;
+  height: 24.2px;
+  flex-shrink: 0;
+}
+.task {
+  width: 38px;
+  position: relative;
+  display: inline-block;
+  height: 24px;
+  flex-shrink: 0;
+}
+.reward {
+  position: relative;
+}
+.button {
+  border-radius: 6px;
+  background-color: #fa9021;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: 8px 35px;
+}
+.container {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 95px;
+  font-size: 16px;
+}
+.navigation {
+  position: absolute;
+  width: calc(100% - 398px);
+  top: 82px;
+  right: 199px;
+  left: 199px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+}
+.glo {
+  color: #fb982f;
+}
+.span {
+  color: #af0ee8;
+}
+.connectWalletToContainer {
+  align-self: stretch;
+  position: relative;
+  font-size: 64px;
+  line-height: 155.2%;
+  text-align: center;
+}
+.allUnclaimedTokens {
+  width: 860px;
+  position: relative;
+  line-height: 200%;
+  font-weight: 500;
+  display: inline-block;
+  height: 47px;
+  flex-shrink: 0;
+}
+.connectWallet1 {
+  position: relative;
+  font-weight: 170;
+  background: linear-gradient(92.48deg, #fa8305, #fb9e3c);
+  border: 0;
+  font-size: 15px;
+}
+.button1 {
+  border-radius: 24px;
+  background: linear-gradient(92.48deg, #fa8305, #fb9e3c);
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: 10px 20px;
+}
+.powered {
+  white-space: pre-wrap;
+}
+.poweredBySolana {
+  width: 202px;
+  position: relative;
+  font-size: 20px;
+  line-height: 155.2%;
+  display: inline-block;
+  color: #e87d0e;
+}
+.container1 {
+  position: absolute;
+  width: calc(100% - 772px);
+  top: 304px;
+  right: 394px;
+  left: 378px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 29px;
+  font-size: 32px;
+}
+.connectW {
+  width: 100%;
+  position: relative;
+  background-color: #000;
+  height: 1117px;
+  overflow: hidden;
+  text-align: left;
+  font-size: 29px;
+  color: #fff;
+  font-family: Poppins;
+}
